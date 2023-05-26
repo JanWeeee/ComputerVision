@@ -55,4 +55,4 @@ To use the experiments and implementations in this repository, follow these step
 4. Run the provided code using the recommended programming language.
 5. Modify the code or input images as needed to experiment with different scenarios.
 
-Feel free to explore and learn about computer vision techniques through these experiments!
+Feel free to explore and learn about computer vision techniques through these experiments!!
